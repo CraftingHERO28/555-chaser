@@ -16,4 +16,8 @@ Staying within the bounds: I couldn't let any traces or components cross over th
 In the end, everything came together, and I'm super proud of how this mountain PCB turned out!
 #translated with google-translator#
 <img width="766" height="587" alt="image" src="https://github.com/user-attachments/assets/ed847e7a-d88e-43b9-96ac-fa498df6ea24" /><img width="916" height="723" alt="image" src="https://github.com/user-attachments/assets/cf8b6da1-21b8-4ec8-911c-6a74ea24d86c" />
+<img width="813" height="459" alt="image" src="https://github.com/user-attachments/assets/943d2c9f-fbbe-44a7-b599-677ace241578" />
+
+<img width="941" height="179" alt="image" src="https://github.com/user-attachments/assets/afc429c5-c9d1-4e27-953e-35aee304d86c" />
+
 
