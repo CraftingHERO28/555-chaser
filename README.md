@@ -15,9 +15,11 @@ Staying within the bounds: I couldn't let any traces or components cross over th
 
 In the end, everything came together, and I'm super proud of how this mountain PCB turned out!
 #translated with google-translator#
-<img width="766" height="587" alt="image" src="https://github.com/user-attachments/assets/ed847e7a-d88e-43b9-96ac-fa498df6ea24" /><img width="916" height="723" alt="image" src="https://github.com/user-attachments/assets/cf8b6da1-21b8-4ec8-911c-6a74ea24d86c" />
-<img width="813" height="459" alt="image" src="https://github.com/user-attachments/assets/943d2c9f-fbbe-44a7-b599-677ace241578" />
 
-<img width="941" height="179" alt="image" src="https://github.com/user-attachments/assets/afc429c5-c9d1-4e27-953e-35aee304d86c" />
+<img width="801" height="520" alt="image" src="https://github.com/user-attachments/assets/ee8087f5-dcf6-4cee-bf85-efd9a91f6322" />
+<img width="1007" height="677" alt="image" src="https://github.com/user-attachments/assets/c8fd978e-6797-4306-a95a-30962cf80cb7" />
+<img width="890" height="191" alt="image" src="https://github.com/user-attachments/assets/d50befb0-a2d8-4de9-9d62-25eb1aa7393c" />
+<img width="813" height="459" alt="Screenshot 2026-10-16 160448" src="https://github.com/user-attachments/assets/5a2f0a5d-0e3b-4120-b58e-1962952dda4c" />
+
 
 
