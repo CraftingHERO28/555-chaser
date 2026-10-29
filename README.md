@@ -1,26 +1,34 @@
-# 555-chaser
+555 Mountain LED Chaser
 
-My Mountain LED Chaser
-Welcome to my Hack Club Forge project! I’ve wanted to build a cool circuit for a while—something that doesn’t just blink, but sends light smoothly running through a sequence. The result is this LED chaser board, powered by a classic timer chip for the clock signal and a counter chip that lights up each LED one after another.
+Welcome to my Hack Club Forge project!
 
-Why this specific shape?
-I consciously chose not to go with a boring, rectangular standard PCB shape. Since I absolutely love nature and especially mountains, I decided to design the board's outline like a mountain range! The LEDs are spread across the "peaks" so that the chasing light feels like a sparkling path across the mountains, combining my hobby for electronics with my love for the outdoors.
+I wanted to build something a bit more interesting than a basic blinking LED—a circuit where light smoothly runs through a sequence. That’s how this LED chaser came to life! It’s powered by a classic NE555 timer chip to generate the clock signal and a 4017 counter chip that lights up each LED one after another.
 
-The biggest challenges (and how I solved them)
-Getting the board to work and look right came with a few hurdles:
+Why a mountain shape?
 
-Routing inside a mountain shape: Because the PCB isn't a simple rectangle, squeezing all the traces onto the board was quite a puzzle.
+I really didn't want to make just another standard rectangular board. I love nature and spend a lot of time outdoors, so I decided to draw the PCB outline in the shape of a mountain range. The LEDs are placed along the peaks, so when they light up in sequence, it looks like a trail of light moving across the mountains.
 
-Staying within the bounds: I couldn't let any traces or components cross over the edges of the custom mountain outline. It took a lot of patience to route all the tracks cleanly around the corners and peaks without causing short circuits or running out of space.
+How it works
 
-In the end, everything came together, and I'm super proud of how this mountain PCB turned out!
-#translated with google-translator#
+Clock Generator: The NE555 timer is wired in astable mode to create a pulse signal. You can adjust the speed of the chasing light using the potentiometer.
 
+Decade Counter: The CD4017 chip takes those clock pulses and turns on the output pins one by one, lighting up each LED.
 
-<img width="801" height="520" alt="image" src="https://github.com/user-attachments/assets/ee8087f5-dcf6-4cee-bf85-efd9a91f6322" />
-<img width="1007" height="677" alt="image" src="https://github.com/user-attachments/assets/c8fd978e-6797-4306-a95a-30962cf80cb7" />
-<img width="890" height="191" alt="image" src="https://github.com/user-attachments/assets/d50befb0-a2d8-4de9-9d62-25eb1aa7393c" />
-<img width="813" height="459" alt="Screenshot 2026-10-16 160448" src="https://github.com/user-attachments/assets/5a2f0a5d-0e3b-4120-b58e-1962952dda4c" />
+Power: The whole board runs on 5V, supplied through a simple 2-pin header (I'm using a modified USB cable for this).
 
+The biggest challenges
 
+Designing this board came with a few tricky parts:
+
+Routing inside a mountain shape: Since the board isn't a simple square, routing all the copper traces without running out of room felt like a giant puzzle.
+
+Staying within the board edge: I had to make sure no traces or components got too close to the edge cutouts of the mountain peaks to avoid any shorts or manufacturing issues.
+
+It took quite a bit of patience to get all the tracks placed cleanly, but I'm really happy with how the final layout turned out!
+
+Bill of Materials (BOM)
+
+The complete list of components, prices, and purchasing links can be found in the BOM.csv file in this repository.
+
+Gallery & PCB Preview
 
